@@ -9,6 +9,3 @@ puts "Winnie the Pooh is trying to sleep..."
 
 count_honeypots()
 
-GC.start
-
-gets
